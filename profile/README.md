@@ -5,6 +5,8 @@ Designed for **PC and controller users**, it combines machine-calibrated predict
 
 Unlike old-school aim aids, this one learns from your weapon recoil and adjusts your sensitivity dynamically to match your movement rhythm.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://apex-legends-aim-assist.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
